@@ -18,6 +18,4 @@ dependencies:
     - imagesize==1.4.1
     - kornia==0.6.12
     - omegaconf==2.3.0
-    - ./simple-knn
-    - ./pointops2
     
